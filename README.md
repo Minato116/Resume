@@ -60,9 +60,27 @@
 </p>
 </td></tr></table>
 
+
 ## Github Stats
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=mohamed&show_icons=true&count_private=true&hide_title=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
 </td></tr></table>  
+
+
+## Connect with Me 🌐
+
+<p align="left">
+  <a href="https://github.com/Mianto116" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>&nbsp;&nbsp; 
+ 
+<a align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=jaredden1&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="jaredden1" width="auto" height="32" /> 
+</a>
+</p>
