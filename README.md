@@ -1,8 +1,8 @@
-<a href="https://github.com/devexpert127/devexpert127/stargazers"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
-<a href="https://github.com/devexpert127/devexpert127/network/members"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
-<a href="https://github.com/devexpert127/devexpert127/pulls"><img src="https://img.shields.io/github/issues-pr/sld-columbia/esp" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/devexpert127/devexpert127/issues"><img src="https://img.shields.io/github/issues/sld-columbia/esp" alt="Issues Badge"/></a>
-<a href="https://github.com/devexpert127/devexpert127/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sld-columbia/esp?color=2b9348"></a>
+<a href="https://github.com/Mianto116"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
+<a href="https://github.com/Mianto116"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
+<a href="https://github.com/Mianto116"><img src="https://img.shields.io/github/issues-pr/sld-columbia/esp" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Mianto116"><img src="https://img.shields.io/github/issues/sld-columbia/esp" alt="Issues Badge"/></a>
+<a href="https://github.com/Mianto116"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sld-columbia/esp?color=2b9348"></a>
 <br/>
 
 <br/>
@@ -14,20 +14,7 @@
 <table>
 <tr><td valign="top" width="100%">
 <p align="center">  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" alt="Solana" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" alt="Raydium" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" alt="Serum" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" alt="StepFinance" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" alt="Saber" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" alt="Saber" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/10570.png" alt="BinanceSmartChain" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" alt="Tron" height="50" />
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" alt="Defi" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png" alt="Dapp" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png" alt="NFT" height="50" />  
-<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png" alt="Uniswap" height="50" />  
+
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
