@@ -1,8 +1,8 @@
-<a href="https://github.com/Mianto116"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
-<a href="https://github.com/Mianto116"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
-<a href="https://github.com/Mianto116"><img src="https://img.shields.io/github/issues-pr/sld-columbia/esp" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Mianto116"><img src="https://img.shields.io/github/issues/sld-columbia/esp" alt="Issues Badge"/></a>
-<a href="https://github.com/Mianto116"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sld-columbia/esp?color=2b9348"></a>
+<a href="https://github.com/Minato116"><img src="https://img.shields.io/github/stars/sld-columbia/esp" alt="Stars Badge"/></a>
+<a href="https://github.com/Minato116"><img src="https://img.shields.io/github/forks/sld-columbia/esp" alt="Forks Badge"/></a>
+<a href="https://github.com/Minato116"><img src="https://img.shields.io/github/issues-pr/sld-columbia/esp" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Minato116"><img src="https://img.shields.io/github/issues/sld-columbia/esp" alt="Issues Badge"/></a>
+<a href="https://github.com/Minato116"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sld-columbia/esp?color=2b9348"></a>
 <br/>
 
 
@@ -72,7 +72,7 @@
 ## Connect with Me 🌐
 
 <p align="left">
-  <a href="https://github.com/Mianto116" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Minato116" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
