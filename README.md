@@ -7,9 +7,7 @@
 
 
 <br/>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamed&theme=buddhism&rank=-S"/>
-</p>
+
 <br/>
 
 <table>
@@ -61,3 +59,10 @@
 <a href="https://backbonejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/backbonejs-original-wordmark.svg" alt="Backbone.js" height="50" /></a>     
 </p>
 </td></tr></table>
+
+## Github Stats
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed&show_icons=true&count_private=true&hide_title=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>  
