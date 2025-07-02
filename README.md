@@ -5,16 +5,28 @@
 <a href="https://github.com/Mianto116"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sld-columbia/esp?color=2b9348"></a>
 <br/>
 
+
 <br/>
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohamed&theme=buddhism&rank=-S"/>
-</p>
+
 <br/>
 
 <table>
 <tr><td valign="top" width="100%">
 <p align="center">  
-
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" alt="Solana" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/8526.png" alt="Raydium" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6187.png" alt="Serum" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9443.png" alt="StepFinance" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/11181.png" alt="Saber" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/9549.png" alt="Saber" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" alt="Ethereum" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/10570.png" alt="BinanceSmartChain" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="Bitcoin" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png" alt="Tron" height="50" />
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4276.png" alt="Defi" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4176.png" alt="Dapp" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/6650.png" alt="NFT" height="50" />  
+<img style="margin: 10px" src="https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png" alt="Uniswap" height="50" />  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -47,10 +59,3 @@
 <a href="https://backbonejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/backbonejs-original-wordmark.svg" alt="Backbone.js" height="50" /></a>     
 </p>
 </td></tr></table>
-
-## Github Stats
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed&show_icons=true&count_private=true&hide_title=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
