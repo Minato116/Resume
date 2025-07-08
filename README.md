@@ -4,13 +4,8 @@
 <a href="https://github.com/Minato116"><img src="https://img.shields.io/github/issues/sld-columbia/esp" alt="Issues Badge"/></a>
 <a href="https://github.com/Minato116"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sld-columbia/esp?color=2b9348"></a>
 <br/>
-
-
 <br/>
-
 <br/>
-
-<div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -131,8 +126,7 @@
 </table>
 <br><br>
 
-
-## Github Stats
+## Github Stats ⭐
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=mohamed&show_icons=true&count_private=true&hide_title=true&hide_border=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
